@@ -1,0 +1,24 @@
+{
+  "name": "reiterating-react",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bhavika-21/reiterating-react.git"
+  },
+  "author": "Bhavika",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bhavika-21/reiterating-react/issues"
+  },
+  "homepage": "https://github.com/Bhavika-21/reiterating-react#readme",
+  "description": "",
+  "browserlist": [
+    "Last 2 versions"
+  ],
+  "dependencies": {
+    "browserslist": "^4.28.1",
+    "parcel": "^2.16.3",
+    "react": "^19.2.3",
+    "react-dom": "^19.2.3"
+  }
+}
