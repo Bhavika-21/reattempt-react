@@ -1,0 +1,30 @@
+{
+  "name": "reattempt-react",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bhavika-21/reattempt-react.git"
+  },
+  "keywords": [
+    "react",
+    "reactjs"
+  ],
+  "author": "Bhavika Rathod",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bhavika-21/reattempt-react/issues"
+  },
+  "homepage": "https://github.com/Bhavika-21/reattempt-react#readme",
+  "description": "",
+  "devDependencies": {
+    "parcel": "^2.16.4"
+  },
+  "dependencies": {
+    "browserslist": "^4.28.1",
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4"
+  }
+}

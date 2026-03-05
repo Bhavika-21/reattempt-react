@@ -24,12 +24,13 @@
     </div>
 </div> */}
 
-
+import React from "react";
+import ReactDOM from "react-dom/client";
 
 const heading = React.createElement("div", { id: "parent" }, [
-    React.createElement("div", { id: "child-1" },
+    React.createElement("div", { id: "child-1", key: 'child-1' },
         React.createElement("h1", {}, "Hello from child-1")),
-    React.createElement("div", { id: "child-2" },
+    React.createElement("div", { id: "child-2", key: 'child-2' },
         React.createElement("h1", {}, "Hello from child-2"))
 
 
